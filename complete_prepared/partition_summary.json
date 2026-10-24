@@ -1,0 +1,41 @@
+{
+  "train": {
+    "images": 5566,
+    "content_groups": 4993,
+    "counts": {
+      "whole_beans": 895,
+      "broken_beans": 791,
+      "bean_fractions": 315,
+      "skin_damaged_beans": 615,
+      "fermented_beans": 692,
+      "unfermented_beans": 1318,
+      "moldy_beans": 940
+    }
+  },
+  "validation": {
+    "images": 1118,
+    "content_groups": 998,
+    "counts": {
+      "whole_beans": 174,
+      "broken_beans": 148,
+      "bean_fractions": 71,
+      "skin_damaged_beans": 125,
+      "fermented_beans": 136,
+      "unfermented_beans": 276,
+      "moldy_beans": 188
+    }
+  },
+  "test": {
+    "images": 744,
+    "content_groups": 665,
+    "counts": {
+      "whole_beans": 118,
+      "broken_beans": 107,
+      "bean_fractions": 40,
+      "skin_damaged_beans": 82,
+      "fermented_beans": 88,
+      "unfermented_beans": 182,
+      "moldy_beans": 127
+    }
+  }
+}

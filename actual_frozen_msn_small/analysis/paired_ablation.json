@@ -1,0 +1,21 @@
+{
+  "scope": "weighted minus unweighted, fixed seed 42, conditional on fitted heads",
+  "repetitions": 2000,
+  "bootstrap_seed": 2026,
+  "accuracy_difference": 0.008064516129032251,
+  "macro_f1_difference": 0.010503363482840977,
+  "interval_columns": [
+    "accuracy_difference",
+    "macro_f1_difference"
+  ],
+  "group_bootstrap_95_ci": [
+    [
+      -0.01464713715046606,
+      -0.009524701038965702
+    ],
+    [
+      0.02837837837837842,
+      0.028868571044829563
+    ]
+  ]
+}

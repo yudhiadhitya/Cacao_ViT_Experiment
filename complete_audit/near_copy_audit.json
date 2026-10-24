@@ -1,0 +1,2296 @@
+{
+  "scope": "content similarity grouping; physical identities not available",
+  "hash_bits": 63,
+  "candidate_max_hamming": 4,
+  "accepted_min_correlation": 0.98,
+  "accepted_max_rmse": 0.02,
+  "candidate_pairs": 316,
+  "accepted_pairs": 10,
+  "content_groups": 6656,
+  "accepted": [
+    {
+      "a": "complete_cacao/broken_beans/BR0034.png",
+      "b": "complete_cacao/broken_beans/BR0048.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0639.png",
+      "b": "complete_cacao/moldy_beans/MD0739.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0661.png",
+      "b": "complete_cacao/moldy_beans/MD0761.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999999
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0669.png",
+      "b": "complete_cacao/moldy_beans/MD0769.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0670.png",
+      "b": "complete_cacao/moldy_beans/MD0770.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0680.png",
+      "b": "complete_cacao/moldy_beans/MD0780.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999998
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0714.png",
+      "b": "complete_cacao/moldy_beans/MD0818.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999999
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0718.png",
+      "b": "complete_cacao/moldy_beans/MD0822.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0503.png",
+      "b": "complete_cacao/whole_beans/WB0261.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0157578772620585,
+      "normalized_correlation": 0.9839908973638093
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0864.png",
+      "b": "complete_cacao/whole_beans/WB0879.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    }
+  ],
+  "candidates": [
+    {
+      "a": "complete_cacao/broken_beans/BR0034.png",
+      "b": "complete_cacao/broken_beans/BR0048.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0034.png",
+      "b": "complete_cacao/moldy_beans/MD0452.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09464085576621481,
+      "normalized_correlation": 0.7359439197117972
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0108.png",
+      "b": "complete_cacao/skin_damaged_beans/SD094.png",
+      "hamming": 4,
+      "normalized_rmse": 0.037219729779706986,
+      "normalized_correlation": 0.8881396641302328
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0118.png",
+      "b": "complete_cacao/skin_damaged_beans/SD209.png",
+      "hamming": 4,
+      "normalized_rmse": 0.009160624603401196,
+      "normalized_correlation": 0.9798490742717241
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0153.png",
+      "b": "complete_cacao/moldy_beans/MD0202.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09223454352138692,
+      "normalized_correlation": 0.7409204236306699
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0153.png",
+      "b": "complete_cacao/unfermented_beans/UF0362.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06546790689298738,
+      "normalized_correlation": 0.7223230016072811
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0211.png",
+      "b": "complete_cacao/moldy_beans/MD0174.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09051612642882324,
+      "normalized_correlation": 0.6051023419032099
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0217.png",
+      "b": "complete_cacao/moldy_beans/MD0015.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10399339202425802,
+      "normalized_correlation": 0.6826660868210125
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0217.png",
+      "b": "complete_cacao/unfermented_beans/UF0586.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07562092121132497,
+      "normalized_correlation": 0.6290992260427025
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0230.png",
+      "b": "complete_cacao/skin_damaged_beans/SD111.png",
+      "hamming": 2,
+      "normalized_rmse": 0.018537100552724867,
+      "normalized_correlation": 0.9727568674517262
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0250.png",
+      "b": "complete_cacao/skin_damaged_beans/SD131.png",
+      "hamming": 4,
+      "normalized_rmse": 0.01985130207870939,
+      "normalized_correlation": 0.9189145983979999
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0251.png",
+      "b": "complete_cacao/skin_damaged_beans/SD132.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04092570028893916,
+      "normalized_correlation": 0.7792225076873037
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0258.png",
+      "b": "complete_cacao/whole_beans/WB0689.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07597872850276474,
+      "normalized_correlation": 0.736866764359212
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0267.png",
+      "b": "complete_cacao/skin_damaged_beans/SD148.png",
+      "hamming": 2,
+      "normalized_rmse": 0.03710371004797199,
+      "normalized_correlation": 0.9398574375436046
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0283.png",
+      "b": "complete_cacao/fermented_beans/FR739.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11956593453590766,
+      "normalized_correlation": 0.7355591632297369
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0283.png",
+      "b": "complete_cacao/whole_beans/WB0894.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08540298063667087,
+      "normalized_correlation": 0.8005329429127328
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0305.png",
+      "b": "complete_cacao/whole_beans/WB0024.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08237157825072113,
+      "normalized_correlation": 0.6809056379907674
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0307.png",
+      "b": "complete_cacao/skin_damaged_beans/SD188.png",
+      "hamming": 2,
+      "normalized_rmse": 0.018314587785066203,
+      "normalized_correlation": 0.9765026685731004
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0317.png",
+      "b": "complete_cacao/skin_damaged_beans/SD198.png",
+      "hamming": 4,
+      "normalized_rmse": 0.047517081914376515,
+      "normalized_correlation": 0.7336480057683705
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0333.png",
+      "b": "complete_cacao/moldy_beans/MD0764.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06794581537323184,
+      "normalized_correlation": 0.7090374087114093
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0380.png",
+      "b": "complete_cacao/skin_damaged_beans/SD366.png",
+      "hamming": 4,
+      "normalized_rmse": 0.030419384644959677,
+      "normalized_correlation": 0.8566203421551436
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0429.png",
+      "b": "complete_cacao/skin_damaged_beans/SD415.png",
+      "hamming": 2,
+      "normalized_rmse": 0.026615200103585347,
+      "normalized_correlation": 0.9139798168811263
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0444.png",
+      "b": "complete_cacao/broken_beans/BR0549.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05223737313143181,
+      "normalized_correlation": 0.7834527161611818
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0460.png",
+      "b": "complete_cacao/skin_damaged_beans/SD446.png",
+      "hamming": 4,
+      "normalized_rmse": 0.022057433462011215,
+      "normalized_correlation": 0.9413821963137601
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0476.png",
+      "b": "complete_cacao/broken_beans/BR0581.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03628965276355786,
+      "normalized_correlation": 0.9233774785637453
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0477.png",
+      "b": "complete_cacao/fermented_beans/FR341.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11956529603433928,
+      "normalized_correlation": 0.34125113382908395
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0493.png",
+      "b": "complete_cacao/broken_beans/BR0598.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05089774204674384,
+      "normalized_correlation": 0.8841377979878426
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0524.png",
+      "b": "complete_cacao/skin_damaged_beans/SD506.png",
+      "hamming": 2,
+      "normalized_rmse": 0.03889889083803612,
+      "normalized_correlation": 0.8601576301987206
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0538.png",
+      "b": "complete_cacao/fermented_beans/FR323.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09196481312248085,
+      "normalized_correlation": 0.7864368358585998
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0538.png",
+      "b": "complete_cacao/whole_beans/WB0832.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06842996686396863,
+      "normalized_correlation": 0.7046045695177429
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0553.png",
+      "b": "complete_cacao/skin_damaged_beans/SD434.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06679647641471732,
+      "normalized_correlation": 0.6782123912350696
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0578.png",
+      "b": "complete_cacao/moldy_beans/MD0279.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11729895459216196,
+      "normalized_correlation": 0.650422988889232
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0595.png",
+      "b": "complete_cacao/unfermented_beans/UF0452.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07022358238834386,
+      "normalized_correlation": 0.7311808896242151
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0608.png",
+      "b": "complete_cacao/skin_damaged_beans/SD488.png",
+      "hamming": 4,
+      "normalized_rmse": 0.039936207245924275,
+      "normalized_correlation": 0.838192409175122
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0625.png",
+      "b": "complete_cacao/skin_damaged_beans/SD511.png",
+      "hamming": 4,
+      "normalized_rmse": 0.047439874142507235,
+      "normalized_correlation": 0.8991070582043423
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0673.png",
+      "b": "complete_cacao/unfermented_beans/UF1723.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0747663356465619,
+      "normalized_correlation": 0.6779104552641073
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0714.png",
+      "b": "complete_cacao/moldy_beans/MD0526.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06528183897299179,
+      "normalized_correlation": 0.6912223530328631
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0731.png",
+      "b": "complete_cacao/moldy_beans/MD0905.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08634146655111306,
+      "normalized_correlation": 0.6586466841816371
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0741.png",
+      "b": "complete_cacao/skin_damaged_beans/SD620.png",
+      "hamming": 2,
+      "normalized_rmse": 0.02996425860690258,
+      "normalized_correlation": 0.8204113766948912
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0741.png",
+      "b": "complete_cacao/whole_beans/WB0130.png",
+      "hamming": 2,
+      "normalized_rmse": 0.1463213740111228,
+      "normalized_correlation": 0.5800400671145269
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0781.png",
+      "b": "complete_cacao/skin_damaged_beans/SD636.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08212546147919399,
+      "normalized_correlation": 0.4138999300210459
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0813.png",
+      "b": "complete_cacao/skin_damaged_beans/SD126.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05664671846158751,
+      "normalized_correlation": 0.6220705507672853
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0886.png",
+      "b": "complete_cacao/unfermented_beans/UF0773.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06162049988911163,
+      "normalized_correlation": 0.7179070654612818
+    },
+    {
+      "a": "complete_cacao/broken_beans/BR0989.png",
+      "b": "complete_cacao/fermented_beans/FR533.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08165616454816992,
+      "normalized_correlation": 0.7524353002416999
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR006.png",
+      "b": "complete_cacao/whole_beans/WB0522.png",
+      "hamming": 2,
+      "normalized_rmse": 0.024789029370029064,
+      "normalized_correlation": 0.9637920386771243
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR015.png",
+      "b": "complete_cacao/moldy_beans/MD0002.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07824888453981295,
+      "normalized_correlation": 0.7088654974580503
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR019.png",
+      "b": "complete_cacao/whole_beans/WB0523.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06090808534628575,
+      "normalized_correlation": 0.7626808289314849
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR021.png",
+      "b": "complete_cacao/whole_beans/WB0645.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08053845363611808,
+      "normalized_correlation": 0.7336834640882185
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR025.png",
+      "b": "complete_cacao/whole_beans/WB0536.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08228613823963556,
+      "normalized_correlation": 0.7330650057620385
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR036.png",
+      "b": "complete_cacao/whole_beans/WB0546.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07491926676218297,
+      "normalized_correlation": 0.8253588411519686
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR069.png",
+      "b": "complete_cacao/whole_beans/WB0571.png",
+      "hamming": 4,
+      "normalized_rmse": 0.047683157919708105,
+      "normalized_correlation": 0.9203036235429684
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR071.png",
+      "b": "complete_cacao/whole_beans/WB0573.png",
+      "hamming": 4,
+      "normalized_rmse": 0.030934910277992913,
+      "normalized_correlation": 0.9513440651590089
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR075.png",
+      "b": "complete_cacao/whole_beans/WB0008.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1074813589740692,
+      "normalized_correlation": 0.6553207244090734
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR081.png",
+      "b": "complete_cacao/whole_beans/WB0592.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04255268027290013,
+      "normalized_correlation": 0.941153608529332
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR083.png",
+      "b": "complete_cacao/whole_beans/WB0594.png",
+      "hamming": 4,
+      "normalized_rmse": 0.022337703578690044,
+      "normalized_correlation": 0.984635127588673
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR105.png",
+      "b": "complete_cacao/skin_damaged_beans/SD077.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09130893676673221,
+      "normalized_correlation": 0.6778084213662139
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR115.png",
+      "b": "complete_cacao/moldy_beans/MD0190.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09867552265007083,
+      "normalized_correlation": 0.7374029479297772
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR132.png",
+      "b": "complete_cacao/whole_beans/WB0643.png",
+      "hamming": 2,
+      "normalized_rmse": 0.046069032816351975,
+      "normalized_correlation": 0.8997816300001432
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR139.png",
+      "b": "complete_cacao/fermented_beans/FR205.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06878990968766133,
+      "normalized_correlation": 0.8364593825731873
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR139.png",
+      "b": "complete_cacao/moldy_beans/MD0239.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08839814537783691,
+      "normalized_correlation": 0.768869236216752
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR139.png",
+      "b": "complete_cacao/unfermented_beans/UF0485.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07785554422577944,
+      "normalized_correlation": 0.7815204735635685
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR141.png",
+      "b": "complete_cacao/whole_beans/WB0652.png",
+      "hamming": 4,
+      "normalized_rmse": 0.029979249265951354,
+      "normalized_correlation": 0.884108090865284
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR151.png",
+      "b": "complete_cacao/unfermented_beans/UF0227.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06078862708380742,
+      "normalized_correlation": 0.8271965665430374
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR160.png",
+      "b": "complete_cacao/moldy_beans/MD0305.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1040189143396581,
+      "normalized_correlation": 0.6831986462964773
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR164.png",
+      "b": "complete_cacao/whole_beans/WB0675.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05763906983152303,
+      "normalized_correlation": 0.6700965839556937
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR165.png",
+      "b": "complete_cacao/unfermented_beans/UF0725.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1269506158471813,
+      "normalized_correlation": 0.63323729253184
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR165.png",
+      "b": "complete_cacao/whole_beans/WB0397.png",
+      "hamming": 4,
+      "normalized_rmse": 0.13258254035161418,
+      "normalized_correlation": 0.5509162218319774
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR166.png",
+      "b": "complete_cacao/whole_beans/WB0677.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06724900946480313,
+      "normalized_correlation": 0.9019126411111829
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR172.png",
+      "b": "complete_cacao/whole_beans/WB0683.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08994807940639143,
+      "normalized_correlation": 0.8071107726783672
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR173.png",
+      "b": "complete_cacao/unfermented_beans/UF0569.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05226807872590398,
+      "normalized_correlation": 0.8699240513386901
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR194.png",
+      "b": "complete_cacao/whole_beans/WB0824.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06308061241787546,
+      "normalized_correlation": 0.8332487975637016
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR195.png",
+      "b": "complete_cacao/whole_beans/WB0707.png",
+      "hamming": 4,
+      "normalized_rmse": 0.041101511291243245,
+      "normalized_correlation": 0.9446342255596709
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR205.png",
+      "b": "complete_cacao/fermented_beans/FR439.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09740923641090303,
+      "normalized_correlation": 0.7286448164267487
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR212.png",
+      "b": "complete_cacao/whole_beans/WB0724.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0437286974876282,
+      "normalized_correlation": 0.9071491738759755
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR215.png",
+      "b": "complete_cacao/whole_beans/WB0727.png",
+      "hamming": 4,
+      "normalized_rmse": 0.01949925893094938,
+      "normalized_correlation": 0.9719262719370562
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR218.png",
+      "b": "complete_cacao/moldy_beans/MD0058.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05391054273040538,
+      "normalized_correlation": 0.7941862669991471
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR218.png",
+      "b": "complete_cacao/whole_beans/WB0335.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06008490865964884,
+      "normalized_correlation": 0.7918983217195287
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR218.png",
+      "b": "complete_cacao/whole_beans/WB0397.png",
+      "hamming": 4,
+      "normalized_rmse": 0.058510472961193105,
+      "normalized_correlation": 0.7586862329049131
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR245.png",
+      "b": "complete_cacao/unfermented_beans/UF0413.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06781106349146518,
+      "normalized_correlation": 0.7545288994333547
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR251.png",
+      "b": "complete_cacao/whole_beans/WB0764.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10719979138530089,
+      "normalized_correlation": 0.835300776961235
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR258.png",
+      "b": "complete_cacao/whole_beans/WB0772.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04150872060477984,
+      "normalized_correlation": 0.9065225769018715
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR278.png",
+      "b": "complete_cacao/unfermented_beans/UF0221.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08818182583639292,
+      "normalized_correlation": 0.8021113752057005
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR281.png",
+      "b": "complete_cacao/whole_beans/WB0291.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10201882023947638,
+      "normalized_correlation": 0.7347604102898414
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR285.png",
+      "b": "complete_cacao/whole_beans/WB0800.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09270714536430698,
+      "normalized_correlation": 0.7049409963742433
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR295.png",
+      "b": "complete_cacao/whole_beans/WB0810.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06205316126761907,
+      "normalized_correlation": 0.7834656235783128
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR300.png",
+      "b": "complete_cacao/moldy_beans/MD0734.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09455723712359841,
+      "normalized_correlation": 0.80644237087706
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR305.png",
+      "b": "complete_cacao/whole_beans/WB0860.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06399432476947378,
+      "normalized_correlation": 0.822699000011578
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR318.png",
+      "b": "complete_cacao/whole_beans/WB0833.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05493323880349799,
+      "normalized_correlation": 0.7068204164017452
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR323.png",
+      "b": "complete_cacao/whole_beans/WB0832.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08080288139949734,
+      "normalized_correlation": 0.7063247758933362
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR326.png",
+      "b": "complete_cacao/unfermented_beans/UF0794.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06176316589531561,
+      "normalized_correlation": 0.8279281072265445
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR339.png",
+      "b": "complete_cacao/moldy_beans/MD0338.png",
+      "hamming": 4,
+      "normalized_rmse": 0.12145714567407766,
+      "normalized_correlation": 0.6190389209632083
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR339.png",
+      "b": "complete_cacao/whole_beans/WB0081.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0805147214263671,
+      "normalized_correlation": 0.8366271515675611
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR350.png",
+      "b": "complete_cacao/moldy_beans/MD0538.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09398170909788921,
+      "normalized_correlation": 0.8406612127135502
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR350.png",
+      "b": "complete_cacao/whole_beans/WB0865.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08307416566823764,
+      "normalized_correlation": 0.8487822434875487
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR350.png",
+      "b": "complete_cacao/whole_beans/WB1093.png",
+      "hamming": 0,
+      "normalized_rmse": 0.09482121668049534,
+      "normalized_correlation": 0.8193745409102455
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR358.png",
+      "b": "complete_cacao/fermented_beans/FR438.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08060337452765895,
+      "normalized_correlation": 0.7078381631953452
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR359.png",
+      "b": "complete_cacao/whole_beans/WB0889.png",
+      "hamming": 2,
+      "normalized_rmse": 0.06387600453260472,
+      "normalized_correlation": 0.8695085764556714
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR362.png",
+      "b": "complete_cacao/moldy_beans/MD0306.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06256936590271756,
+      "normalized_correlation": 0.7118283026675587
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR364.png",
+      "b": "complete_cacao/fermented_beans/FR491.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10452202338119937,
+      "normalized_correlation": 0.6616634037233134
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR368.png",
+      "b": "complete_cacao/moldy_beans/MD0834.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10313339168144979,
+      "normalized_correlation": 0.7484846122214687
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR384.png",
+      "b": "complete_cacao/skin_damaged_beans/SD042.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1185828687731412,
+      "normalized_correlation": 0.7256111873074088
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR387.png",
+      "b": "complete_cacao/moldy_beans/MD0356.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11145397654856647,
+      "normalized_correlation": 0.719176815255395
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR390.png",
+      "b": "complete_cacao/moldy_beans/MD0420.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06466399401103906,
+      "normalized_correlation": 0.7349922188759193
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR390.png",
+      "b": "complete_cacao/whole_beans/WB0096.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08739997125886759,
+      "normalized_correlation": 0.6677631419455462
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR403.png",
+      "b": "complete_cacao/whole_beans/WB0932.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0263204274684318,
+      "normalized_correlation": 0.9259581951479252
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR409.png",
+      "b": "complete_cacao/unfermented_beans/UF0689.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09061680345588986,
+      "normalized_correlation": 0.7264041685804425
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR411.png",
+      "b": "complete_cacao/whole_beans/WB0940.png",
+      "hamming": 2,
+      "normalized_rmse": 0.05233878626634521,
+      "normalized_correlation": 0.8707946547145804
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR414.png",
+      "b": "complete_cacao/unfermented_beans/UF0041.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08942143686577232,
+      "normalized_correlation": 0.7297189867595872
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR415.png",
+      "b": "complete_cacao/skin_damaged_beans/SD289.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09427685538115939,
+      "normalized_correlation": 0.47553389043796956
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR431.png",
+      "b": "complete_cacao/whole_beans/WB0960.png",
+      "hamming": 4,
+      "normalized_rmse": 0.052989675063039934,
+      "normalized_correlation": 0.8408435643414319
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR441.png",
+      "b": "complete_cacao/moldy_beans/MD0057.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0891278765848013,
+      "normalized_correlation": 0.7218881025693566
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR453.png",
+      "b": "complete_cacao/whole_beans/WB0980.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05394992384283503,
+      "normalized_correlation": 0.8864072763525284
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR470.png",
+      "b": "complete_cacao/whole_beans/WB0247.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10561398413748437,
+      "normalized_correlation": 0.7348417116752323
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR471.png",
+      "b": "complete_cacao/moldy_beans/MD0223.png",
+      "hamming": 4,
+      "normalized_rmse": 0.14133620634019695,
+      "normalized_correlation": 0.7188064247638359
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR472.png",
+      "b": "complete_cacao/moldy_beans/MD0440.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1294351467104666,
+      "normalized_correlation": 0.748814068866936
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR476.png",
+      "b": "complete_cacao/unfermented_beans/UF0374.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08148973058396886,
+      "normalized_correlation": 0.7343039197968755
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR479.png",
+      "b": "complete_cacao/whole_beans/WB1070.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0811855036973281,
+      "normalized_correlation": 0.8142182590215111
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR480.png",
+      "b": "complete_cacao/unfermented_beans/UF0850.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07529592673927035,
+      "normalized_correlation": 0.7497168668689995
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR481.png",
+      "b": "complete_cacao/whole_beans/WB1007.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05971465323696046,
+      "normalized_correlation": 0.7640813179694385
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR491.png",
+      "b": "complete_cacao/skin_damaged_beans/SD258.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11109123829574911,
+      "normalized_correlation": 0.6793055674495297
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR491.png",
+      "b": "complete_cacao/unfermented_beans/UF0742.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07790272590223558,
+      "normalized_correlation": 0.8036627592531617
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR491.png",
+      "b": "complete_cacao/whole_beans/WB0548.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09495696108522843,
+      "normalized_correlation": 0.7603503052911721
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR499.png",
+      "b": "complete_cacao/whole_beans/WB0141.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06170940438471961,
+      "normalized_correlation": 0.8132618762551211
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR503.png",
+      "b": "complete_cacao/whole_beans/WB1029.png",
+      "hamming": 4,
+      "normalized_rmse": 0.060906030540335776,
+      "normalized_correlation": 0.8684946604568875
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR509.png",
+      "b": "complete_cacao/unfermented_beans/UF1418.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07617284193889869,
+      "normalized_correlation": 0.7520250381529213
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR585.png",
+      "b": "complete_cacao/fermented_beans/FR680.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07967173220945128,
+      "normalized_correlation": 0.7981685121766388
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR585.png",
+      "b": "complete_cacao/unfermented_beans/UF1331.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10723880685937855,
+      "normalized_correlation": 0.7135433777345117
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR585.png",
+      "b": "complete_cacao/unfermented_beans/UF1441.png",
+      "hamming": 2,
+      "normalized_rmse": 0.11335380225972073,
+      "normalized_correlation": 0.7027164901215124
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR611.png",
+      "b": "complete_cacao/fermented_beans/FR739.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10413615710447187,
+      "normalized_correlation": 0.8321881797082135
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR619.png",
+      "b": "complete_cacao/unfermented_beans/UF1680.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0701911210971355,
+      "normalized_correlation": 0.7931661999812024
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR739.png",
+      "b": "complete_cacao/whole_beans/WB0894.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08755993094831294,
+      "normalized_correlation": 0.8085705205826622
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR768.png",
+      "b": "complete_cacao/whole_beans/WB0984.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08438403272310464,
+      "normalized_correlation": 0.8586953809051877
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR788.png",
+      "b": "complete_cacao/moldy_beans/MD1246.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08631793066766703,
+      "normalized_correlation": 0.7363262464003907
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR837.png",
+      "b": "complete_cacao/moldy_beans/MD0141.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08995752639758152,
+      "normalized_correlation": 0.7207001200950216
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR837.png",
+      "b": "complete_cacao/moldy_beans/MD0460.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11018764150607024,
+      "normalized_correlation": 0.7670410699101327
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR838.png",
+      "b": "complete_cacao/moldy_beans/MD0673.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08612367951044393,
+      "normalized_correlation": 0.5526020718999635
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR838.png",
+      "b": "complete_cacao/moldy_beans/MD1098.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08361710832178892,
+      "normalized_correlation": 0.6027235224887142
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR844.png",
+      "b": "complete_cacao/unfermented_beans/UF1420.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06882868707165228,
+      "normalized_correlation": 0.8438144150393694
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR863.png",
+      "b": "complete_cacao/unfermented_beans/UF0221.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11049094524331216,
+      "normalized_correlation": 0.8011741663327504
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR863.png",
+      "b": "complete_cacao/whole_beans/WB0367.png",
+      "hamming": 4,
+      "normalized_rmse": 0.102632505339591,
+      "normalized_correlation": 0.7388000713092903
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR863.png",
+      "b": "complete_cacao/whole_beans/WB0672.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10515254577224928,
+      "normalized_correlation": 0.6803447970298067
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR883.png",
+      "b": "complete_cacao/moldy_beans/MD0905.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11780718376047965,
+      "normalized_correlation": 0.5860264632583007
+    },
+    {
+      "a": "complete_cacao/fermented_beans/FR897.png",
+      "b": "complete_cacao/unfermented_beans/UF1250.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08948118583962232,
+      "normalized_correlation": 0.6803502722390153
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0012.png",
+      "b": "complete_cacao/whole_beans/WB0025.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09131171913474433,
+      "normalized_correlation": 0.7693341622717973
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0015.png",
+      "b": "complete_cacao/unfermented_beans/UF0586.png",
+      "hamming": 2,
+      "normalized_rmse": 0.08554220035244607,
+      "normalized_correlation": 0.6508035375042069
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0020.png",
+      "b": "complete_cacao/unfermented_beans/UF0499.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08431797808330391,
+      "normalized_correlation": 0.7594371411984854
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0034.png",
+      "b": "complete_cacao/moldy_beans/MD1024.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0592399138313616,
+      "normalized_correlation": 0.7571714898570284
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0046.png",
+      "b": "complete_cacao/whole_beans/WB1029.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09256386320603899,
+      "normalized_correlation": 0.735753592982275
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0057.png",
+      "b": "complete_cacao/whole_beans/WB0957.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09174981647419697,
+      "normalized_correlation": 0.8556278139316866
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0058.png",
+      "b": "complete_cacao/whole_beans/WB0397.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07552705788756339,
+      "normalized_correlation": 0.6462191427959803
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0058.png",
+      "b": "complete_cacao/whole_beans/WB0593.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11534541972733953,
+      "normalized_correlation": 0.7888586486492579
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0166.png",
+      "b": "complete_cacao/whole_beans/WB0863.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07252379468952339,
+      "normalized_correlation": 0.671848974114437
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0173.png",
+      "b": "complete_cacao/moldy_beans/MD1059.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09776202900824031,
+      "normalized_correlation": 0.43463016596509296
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0173.png",
+      "b": "complete_cacao/unfermented_beans/UF0692.png",
+      "hamming": 2,
+      "normalized_rmse": 0.1017693242404278,
+      "normalized_correlation": 0.6318865552742343
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0173.png",
+      "b": "complete_cacao/whole_beans/WB0375.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1032608879399622,
+      "normalized_correlation": 0.6244166814237994
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0173.png",
+      "b": "complete_cacao/whole_beans/WB1129.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11503160626912971,
+      "normalized_correlation": 0.2892948272774046
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0174.png",
+      "b": "complete_cacao/whole_beans/WB0756.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07582546665662357,
+      "normalized_correlation": 0.7782861292567518
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0174.png",
+      "b": "complete_cacao/whole_beans/WB1122.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0948345926735627,
+      "normalized_correlation": 0.7136310007096077
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0202.png",
+      "b": "complete_cacao/unfermented_beans/UF0362.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07758587851762166,
+      "normalized_correlation": 0.7761273261762126
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0231.png",
+      "b": "complete_cacao/whole_beans/WB0824.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05966641902423806,
+      "normalized_correlation": 0.8265882936156019
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0239.png",
+      "b": "complete_cacao/unfermented_beans/UF0455.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06176514152961311,
+      "normalized_correlation": 0.8204565249284602
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0241.png",
+      "b": "complete_cacao/whole_beans/WB0110.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07196412275096106,
+      "normalized_correlation": 0.6216521917227815
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0262.png",
+      "b": "complete_cacao/whole_beans/WB0593.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09702885215930385,
+      "normalized_correlation": 0.6834954779912115
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0322.png",
+      "b": "complete_cacao/whole_beans/WB0433.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08570802951561374,
+      "normalized_correlation": 0.6968515833429418
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0338.png",
+      "b": "complete_cacao/whole_beans/WB0081.png",
+      "hamming": 4,
+      "normalized_rmse": 0.14185639695348834,
+      "normalized_correlation": 0.6747239829720816
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0355.png",
+      "b": "complete_cacao/unfermented_beans/UF0249.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06474087170134395,
+      "normalized_correlation": 0.756856853745933
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0376.png",
+      "b": "complete_cacao/moldy_beans/MD0488.png",
+      "hamming": 4,
+      "normalized_rmse": 0.14947188760346686,
+      "normalized_correlation": 0.6802547507927595
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0448.png",
+      "b": "complete_cacao/whole_beans/WB0828.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1001609850844461,
+      "normalized_correlation": 0.6334319270297962
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0467.png",
+      "b": "complete_cacao/skin_damaged_beans/SD607.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06873651865012735,
+      "normalized_correlation": 0.7333528434316406
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0480.png",
+      "b": "complete_cacao/whole_beans/WB0063.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07660924667191014,
+      "normalized_correlation": 0.7679317620794149
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0501.png",
+      "b": "complete_cacao/whole_beans/WB0886.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05326296530670714,
+      "normalized_correlation": 0.7196187804675608
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0520.png",
+      "b": "complete_cacao/unfermented_beans/UF0133.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10670591858994301,
+      "normalized_correlation": 0.7427962939568299
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0526.png",
+      "b": "complete_cacao/moldy_beans/MD1250.png",
+      "hamming": 4,
+      "normalized_rmse": 0.054283175500159674,
+      "normalized_correlation": 0.804321840307588
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0538.png",
+      "b": "complete_cacao/whole_beans/WB1093.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1341878702177231,
+      "normalized_correlation": 0.7595354490520244
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0632.png",
+      "b": "complete_cacao/whole_beans/WB0212.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08186133094107491,
+      "normalized_correlation": 0.6545289658981382
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0639.png",
+      "b": "complete_cacao/moldy_beans/MD0739.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0661.png",
+      "b": "complete_cacao/moldy_beans/MD0761.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999999
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0669.png",
+      "b": "complete_cacao/moldy_beans/MD0769.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0669.png",
+      "b": "complete_cacao/moldy_beans/MD1189.png",
+      "hamming": 4,
+      "normalized_rmse": 0.21075174131309868,
+      "normalized_correlation": 0.6032428845068882
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0670.png",
+      "b": "complete_cacao/moldy_beans/MD0770.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0673.png",
+      "b": "complete_cacao/moldy_beans/MD1098.png",
+      "hamming": 4,
+      "normalized_rmse": 0.043577680081307024,
+      "normalized_correlation": 0.7240485327330369
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0673.png",
+      "b": "complete_cacao/unfermented_beans/UF1539.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07897743171704354,
+      "normalized_correlation": 0.5733784625673114
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0680.png",
+      "b": "complete_cacao/moldy_beans/MD0780.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999998
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0711.png",
+      "b": "complete_cacao/unfermented_beans/UF0185.png",
+      "hamming": 4,
+      "normalized_rmse": 0.12104003051804463,
+      "normalized_correlation": 0.6813683617726972
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0714.png",
+      "b": "complete_cacao/moldy_beans/MD0818.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 0.9999999999999999
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0718.png",
+      "b": "complete_cacao/moldy_beans/MD0822.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0730.png",
+      "b": "complete_cacao/moldy_beans/MD1137.png",
+      "hamming": 4,
+      "normalized_rmse": 0.061412915581165975,
+      "normalized_correlation": 0.6676211113388095
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0734.png",
+      "b": "complete_cacao/unfermented_beans/UF1296.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07348592804646992,
+      "normalized_correlation": 0.8218264502733077
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0743.png",
+      "b": "complete_cacao/unfermented_beans/UF1256.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09427828906635803,
+      "normalized_correlation": 0.6429189836893785
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0761.png",
+      "b": "complete_cacao/moldy_beans/MD0960.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03789965887864997,
+      "normalized_correlation": 0.7024744398034566
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0812.png",
+      "b": "complete_cacao/moldy_beans/MD1222.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07002448728440962,
+      "normalized_correlation": 0.6728575310962163
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0823.png",
+      "b": "complete_cacao/skin_damaged_beans/SD226.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0884519427449122,
+      "normalized_correlation": 0.7343161824839693
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0886.png",
+      "b": "complete_cacao/unfermented_beans/UF0499.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09993234487311421,
+      "normalized_correlation": 0.6707674392739078
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0886.png",
+      "b": "complete_cacao/whole_beans/WB0367.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07159491435445599,
+      "normalized_correlation": 0.6942005846538475
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0889.png",
+      "b": "complete_cacao/unfermented_beans/UF1464.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07861334938406377,
+      "normalized_correlation": 0.6949757885419936
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0919.png",
+      "b": "complete_cacao/moldy_beans/MD1162.png",
+      "hamming": 4,
+      "normalized_rmse": 0.054759977306600274,
+      "normalized_correlation": 0.7070578992181095
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0923.png",
+      "b": "complete_cacao/moldy_beans/MD1006.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05622419604430576,
+      "normalized_correlation": 0.8072508377901124
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD0923.png",
+      "b": "complete_cacao/unfermented_beans/UF1418.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0730501126888936,
+      "normalized_correlation": 0.678776365216288
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1006.png",
+      "b": "complete_cacao/unfermented_beans/UF1006.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08153201563190235,
+      "normalized_correlation": 0.7210063583713394
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1059.png",
+      "b": "complete_cacao/whole_beans/WB1129.png",
+      "hamming": 2,
+      "normalized_rmse": 0.07928700585862983,
+      "normalized_correlation": 0.6339447114689073
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1065.png",
+      "b": "complete_cacao/unfermented_beans/UF1256.png",
+      "hamming": 4,
+      "normalized_rmse": 0.12029251169818811,
+      "normalized_correlation": 0.3804638736186209
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1079.png",
+      "b": "complete_cacao/unfermented_beans/UF1625.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07611550420970102,
+      "normalized_correlation": 0.7441964162811915
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1094.png",
+      "b": "complete_cacao/unfermented_beans/UF0833.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08208320769823152,
+      "normalized_correlation": 0.5728100467548849
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1104.png",
+      "b": "complete_cacao/unfermented_beans/UF1389.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09986634827418807,
+      "normalized_correlation": 0.8258221953941428
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1209.png",
+      "b": "complete_cacao/unfermented_beans/UF1380.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09065646038795608,
+      "normalized_correlation": 0.7088817047022238
+    },
+    {
+      "a": "complete_cacao/moldy_beans/MD1250.png",
+      "b": "complete_cacao/whole_beans/WB1187.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09499197358543256,
+      "normalized_correlation": 0.7711727015581048
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD164.png",
+      "b": "complete_cacao/whole_beans/WB0246.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06614483289664744,
+      "normalized_correlation": 0.7317828358733964
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD215.png",
+      "b": "complete_cacao/unfermented_beans/UF0269.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07559960188097783,
+      "normalized_correlation": 0.5875972650762787
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD258.png",
+      "b": "complete_cacao/unfermented_beans/UF0193.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06592237437686294,
+      "normalized_correlation": 0.6264972495284162
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD286.png",
+      "b": "complete_cacao/unfermented_beans/UF0219.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07252159442604833,
+      "normalized_correlation": 0.6114161388833714
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD325.png",
+      "b": "complete_cacao/whole_beans/WB0254.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11240832900205262,
+      "normalized_correlation": 0.7094051626299893
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD620.png",
+      "b": "complete_cacao/whole_beans/WB0130.png",
+      "hamming": 4,
+      "normalized_rmse": 0.14965854663060435,
+      "normalized_correlation": 0.535295870304774
+    },
+    {
+      "a": "complete_cacao/skin_damaged_beans/SD660.png",
+      "b": "complete_cacao/whole_beans/WB1176.png",
+      "hamming": 2,
+      "normalized_rmse": 0.14903729376151803,
+      "normalized_correlation": 0.4939508176719426
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0035.png",
+      "b": "complete_cacao/whole_beans/WB0019.png",
+      "hamming": 4,
+      "normalized_rmse": 0.025048187211973025,
+      "normalized_correlation": 0.9662342027950097
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0037.png",
+      "b": "complete_cacao/whole_beans/WB0020.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04362211495237374,
+      "normalized_correlation": 0.8805946627003101
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0063.png",
+      "b": "complete_cacao/whole_beans/WB0033.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06945832593861812,
+      "normalized_correlation": 0.838163004824747
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0115.png",
+      "b": "complete_cacao/whole_beans/WB0059.png",
+      "hamming": 2,
+      "normalized_rmse": 0.028964182733849594,
+      "normalized_correlation": 0.9617111020352775
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0119.png",
+      "b": "complete_cacao/whole_beans/WB0860.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06786237947418469,
+      "normalized_correlation": 0.740294337254585
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0147.png",
+      "b": "complete_cacao/whole_beans/WB0075.png",
+      "hamming": 2,
+      "normalized_rmse": 0.029299127319013678,
+      "normalized_correlation": 0.9283973640418103
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0157.png",
+      "b": "complete_cacao/whole_beans/WB0017.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0799590797883503,
+      "normalized_correlation": 0.8833908535226502
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0163.png",
+      "b": "complete_cacao/whole_beans/WB0084.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06400084661764417,
+      "normalized_correlation": 0.894150015236407
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0185.png",
+      "b": "complete_cacao/whole_beans/WB0084.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09119879379414643,
+      "normalized_correlation": 0.7845790686233127
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0193.png",
+      "b": "complete_cacao/whole_beans/WB0548.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1081607920571828,
+      "normalized_correlation": 0.8049970383046827
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0209.png",
+      "b": "complete_cacao/whole_beans/WB0621.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08237452575883332,
+      "normalized_correlation": 0.8410878215355924
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0221.png",
+      "b": "complete_cacao/whole_beans/WB0367.png",
+      "hamming": 2,
+      "normalized_rmse": 0.06186479361696887,
+      "normalized_correlation": 0.8119771171689287
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0221.png",
+      "b": "complete_cacao/whole_beans/WB0672.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07102385321477692,
+      "normalized_correlation": 0.7482456565193158
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0243.png",
+      "b": "complete_cacao/whole_beans/WB0123.png",
+      "hamming": 4,
+      "normalized_rmse": 0.037500867711777415,
+      "normalized_correlation": 0.9064047486807429
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0251.png",
+      "b": "complete_cacao/whole_beans/WB0127.png",
+      "hamming": 2,
+      "normalized_rmse": 0.05397294279100484,
+      "normalized_correlation": 0.8645804522109343
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0261.png",
+      "b": "complete_cacao/whole_beans/WB0446.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08864287784536291,
+      "normalized_correlation": 0.6299994048656727
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0275.png",
+      "b": "complete_cacao/unfermented_beans/UF0793.png",
+      "hamming": 2,
+      "normalized_rmse": 0.06578090937113773,
+      "normalized_correlation": 0.7935930616572776
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0295.png",
+      "b": "complete_cacao/whole_beans/WB0239.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0896603055314435,
+      "normalized_correlation": 0.7955927043341571
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0297.png",
+      "b": "complete_cacao/whole_beans/WB0149.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04286120206542593,
+      "normalized_correlation": 0.8891947758906329
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0307.png",
+      "b": "complete_cacao/whole_beans/WB0154.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05478543150603495,
+      "normalized_correlation": 0.8629605538487403
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0309.png",
+      "b": "complete_cacao/whole_beans/WB0155.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03718068722682831,
+      "normalized_correlation": 0.941762044715587
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0329.png",
+      "b": "complete_cacao/whole_beans/WB0165.png",
+      "hamming": 4,
+      "normalized_rmse": 0.057575610985834594,
+      "normalized_correlation": 0.8674148027275531
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0362.png",
+      "b": "complete_cacao/whole_beans/WB0245.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07010206514959812,
+      "normalized_correlation": 0.7333128226297809
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0374.png",
+      "b": "complete_cacao/unfermented_beans/UF0426.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0794305719251708,
+      "normalized_correlation": 0.7619877330312581
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0374.png",
+      "b": "complete_cacao/whole_beans/WB0987.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11047440670561187,
+      "normalized_correlation": 0.7872203067517265
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0415.png",
+      "b": "complete_cacao/whole_beans/WB0397.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04442028663603636,
+      "normalized_correlation": 0.8623569104517653
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0415.png",
+      "b": "complete_cacao/whole_beans/WB1014.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11941631681715094,
+      "normalized_correlation": 0.7729191990934974
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0434.png",
+      "b": "complete_cacao/whole_beans/WB0304.png",
+      "hamming": 4,
+      "normalized_rmse": 0.13029704302253073,
+      "normalized_correlation": 0.677629506871897
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0455.png",
+      "b": "complete_cacao/whole_beans/WB0366.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06072024645180772,
+      "normalized_correlation": 0.8458705913634336
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0473.png",
+      "b": "complete_cacao/whole_beans/WB0243.png",
+      "hamming": 4,
+      "normalized_rmse": 0.04381637328070465,
+      "normalized_correlation": 0.8974922992874799
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0475.png",
+      "b": "complete_cacao/unfermented_beans/UF0513.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08275784382539815,
+      "normalized_correlation": 0.9008333489564119
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0479.png",
+      "b": "complete_cacao/unfermented_beans/UF0823.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0730629094514091,
+      "normalized_correlation": 0.7581884883735143
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0489.png",
+      "b": "complete_cacao/whole_beans/WB0335.png",
+      "hamming": 4,
+      "normalized_rmse": 0.052476278659442724,
+      "normalized_correlation": 0.8455439646623739
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0497.png",
+      "b": "complete_cacao/whole_beans/WB0256.png",
+      "hamming": 4,
+      "normalized_rmse": 0.037006117798946865,
+      "normalized_correlation": 0.9447694827166633
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0498.png",
+      "b": "complete_cacao/whole_beans/WB0257.png",
+      "hamming": 2,
+      "normalized_rmse": 0.07363174557819188,
+      "normalized_correlation": 0.7726634655099336
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0503.png",
+      "b": "complete_cacao/whole_beans/WB0261.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0157578772620585,
+      "normalized_correlation": 0.9839908973638093
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0513.png",
+      "b": "complete_cacao/unfermented_beans/UF0852.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09357030281188077,
+      "normalized_correlation": 0.8086044100770219
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0513.png",
+      "b": "complete_cacao/whole_beans/WB0001.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0650325225748996,
+      "normalized_correlation": 0.9101272838161905
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0518.png",
+      "b": "complete_cacao/whole_beans/WB0270.png",
+      "hamming": 2,
+      "normalized_rmse": 0.0483221159791407,
+      "normalized_correlation": 0.9196279004518493
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0519.png",
+      "b": "complete_cacao/whole_beans/WB0271.png",
+      "hamming": 4,
+      "normalized_rmse": 0.042132096293233307,
+      "normalized_correlation": 0.9430629476518485
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0528.png",
+      "b": "complete_cacao/whole_beans/WB0276.png",
+      "hamming": 4,
+      "normalized_rmse": 0.02500888422654942,
+      "normalized_correlation": 0.973518596187174
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0551.png",
+      "b": "complete_cacao/whole_beans/WB0279.png",
+      "hamming": 4,
+      "normalized_rmse": 0.045698996074997,
+      "normalized_correlation": 0.8848394015197077
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0554.png",
+      "b": "complete_cacao/whole_beans/WB0297.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06542230755058626,
+      "normalized_correlation": 0.8606759431079097
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0568.png",
+      "b": "complete_cacao/whole_beans/WB0307.png",
+      "hamming": 4,
+      "normalized_rmse": 0.057802099932719266,
+      "normalized_correlation": 0.92642177246643
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0588.png",
+      "b": "complete_cacao/whole_beans/WB0318.png",
+      "hamming": 4,
+      "normalized_rmse": 0.026946506357469157,
+      "normalized_correlation": 0.9501952047332913
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0618.png",
+      "b": "complete_cacao/whole_beans/WB0333.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03815362210639879,
+      "normalized_correlation": 0.9215660848144123
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0622.png",
+      "b": "complete_cacao/whole_beans/WB0383.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06335759622143769,
+      "normalized_correlation": 0.794683922794963
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0638.png",
+      "b": "complete_cacao/whole_beans/WB0113.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0793071288015482,
+      "normalized_correlation": 0.8031928378965398
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0638.png",
+      "b": "complete_cacao/whole_beans/WB0273.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06955007765182201,
+      "normalized_correlation": 0.858282597078653
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0654.png",
+      "b": "complete_cacao/whole_beans/WB0354.png",
+      "hamming": 2,
+      "normalized_rmse": 0.03799339144267951,
+      "normalized_correlation": 0.9206449972847304
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0674.png",
+      "b": "complete_cacao/whole_beans/WB0538.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06138528589525769,
+      "normalized_correlation": 0.798240719792528
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0680.png",
+      "b": "complete_cacao/whole_beans/WB0819.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06999493758984617,
+      "normalized_correlation": 0.7455504926032124
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0692.png",
+      "b": "complete_cacao/whole_beans/WB0375.png",
+      "hamming": 2,
+      "normalized_rmse": 0.033508268826679025,
+      "normalized_correlation": 0.9576980111909634
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0692.png",
+      "b": "complete_cacao/whole_beans/WB0865.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0882715265795494,
+      "normalized_correlation": 0.8206272269764506
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0694.png",
+      "b": "complete_cacao/whole_beans/WB0634.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07428164881203085,
+      "normalized_correlation": 0.8066171106750971
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0711.png",
+      "b": "complete_cacao/whole_beans/WB0387.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06276913849283351,
+      "normalized_correlation": 0.8789318161927903
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0725.png",
+      "b": "complete_cacao/whole_beans/WB0397.png",
+      "hamming": 2,
+      "normalized_rmse": 0.04351107212528036,
+      "normalized_correlation": 0.8634534762719351
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0730.png",
+      "b": "complete_cacao/unfermented_beans/UF0850.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07124273184429564,
+      "normalized_correlation": 0.8001546306434635
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0730.png",
+      "b": "complete_cacao/whole_beans/WB0025.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06351882495454639,
+      "normalized_correlation": 0.7960112664791718
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0742.png",
+      "b": "complete_cacao/whole_beans/WB0096.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07157799113637645,
+      "normalized_correlation": 0.8075506959699709
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0753.png",
+      "b": "complete_cacao/whole_beans/WB0829.png",
+      "hamming": 2,
+      "normalized_rmse": 0.06910956175476399,
+      "normalized_correlation": 0.8520471999445535
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0769.png",
+      "b": "complete_cacao/whole_beans/WB0249.png",
+      "hamming": 4,
+      "normalized_rmse": 0.047197139479948455,
+      "normalized_correlation": 0.857189694357341
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0773.png",
+      "b": "complete_cacao/whole_beans/WB0423.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03336772618359253,
+      "normalized_correlation": 0.8935862299119941
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0783.png",
+      "b": "complete_cacao/whole_beans/WB0428.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03272741492639346,
+      "normalized_correlation": 0.9211899408648744
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0802.png",
+      "b": "complete_cacao/whole_beans/WB0438.png",
+      "hamming": 4,
+      "normalized_rmse": 0.038731856275367064,
+      "normalized_correlation": 0.9329061423971482
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0816.png",
+      "b": "complete_cacao/whole_beans/WB0903.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08495005313722924,
+      "normalized_correlation": 0.7552510110402603
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0850.png",
+      "b": "complete_cacao/whole_beans/WB0025.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07382379116385472,
+      "normalized_correlation": 0.7684892492221876
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0868.png",
+      "b": "complete_cacao/whole_beans/WB0474.png",
+      "hamming": 4,
+      "normalized_rmse": 0.03445841852509219,
+      "normalized_correlation": 0.9181658690021934
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0889.png",
+      "b": "complete_cacao/whole_beans/WB0833.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0721042527337115,
+      "normalized_correlation": 0.6575141239257305
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0927.png",
+      "b": "complete_cacao/whole_beans/WB0510.png",
+      "hamming": 2,
+      "normalized_rmse": 0.03027562306271883,
+      "normalized_correlation": 0.9583117533770392
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF0935.png",
+      "b": "complete_cacao/whole_beans/WB0239.png",
+      "hamming": 2,
+      "normalized_rmse": 0.04909117019054102,
+      "normalized_correlation": 0.875908952293422
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF1018.png",
+      "b": "complete_cacao/unfermented_beans/UF1296.png",
+      "hamming": 4,
+      "normalized_rmse": 0.10393089547067579,
+      "normalized_correlation": 0.8269837173426339
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF1346.png",
+      "b": "complete_cacao/unfermented_beans/UF1723.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06218640287733832,
+      "normalized_correlation": 0.8575424865875529
+    },
+    {
+      "a": "complete_cacao/unfermented_beans/UF1561.png",
+      "b": "complete_cacao/unfermented_beans/UF1723.png",
+      "hamming": 4,
+      "normalized_rmse": 0.061530480463195265,
+      "normalized_correlation": 0.8089861126032604
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0001.png",
+      "b": "complete_cacao/whole_beans/WB0141.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1242828482183092,
+      "normalized_correlation": 0.797729558871501
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0017.png",
+      "b": "complete_cacao/whole_beans/WB0081.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07668942477116403,
+      "normalized_correlation": 0.8835623470528059
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0078.png",
+      "b": "complete_cacao/whole_beans/WB0886.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0926819581880652,
+      "normalized_correlation": 0.7032135636978356
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0081.png",
+      "b": "complete_cacao/whole_beans/WB0738.png",
+      "hamming": 2,
+      "normalized_rmse": 0.10396029152774088,
+      "normalized_correlation": 0.8130080575452137
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0101.png",
+      "b": "complete_cacao/whole_beans/WB0246.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06118433929056764,
+      "normalized_correlation": 0.833392767030371
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0105.png",
+      "b": "complete_cacao/whole_beans/WB0632.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1449473752635089,
+      "normalized_correlation": 0.43681845208840137
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0135.png",
+      "b": "complete_cacao/whole_beans/WB0865.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11013346710596815,
+      "normalized_correlation": 0.7781433454755144
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0139.png",
+      "b": "complete_cacao/whole_beans/WB0421.png",
+      "hamming": 2,
+      "normalized_rmse": 0.05584039012569646,
+      "normalized_correlation": 0.8359178637275084
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0153.png",
+      "b": "complete_cacao/whole_beans/WB0345.png",
+      "hamming": 2,
+      "normalized_rmse": 0.05914683204409917,
+      "normalized_correlation": 0.8311306695381357
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0167.png",
+      "b": "complete_cacao/whole_beans/WB0643.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05547503686644874,
+      "normalized_correlation": 0.8717193292941668
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0240.png",
+      "b": "complete_cacao/whole_beans/WB0775.png",
+      "hamming": 4,
+      "normalized_rmse": 0.11874363946387345,
+      "normalized_correlation": 0.6058987446822227
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0246.png",
+      "b": "complete_cacao/whole_beans/WB0284.png",
+      "hamming": 4,
+      "normalized_rmse": 0.09975586172275204,
+      "normalized_correlation": 0.8674890630696773
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0246.png",
+      "b": "complete_cacao/whole_beans/WB0754.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06588631241384518,
+      "normalized_correlation": 0.7913122970353066
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0254.png",
+      "b": "complete_cacao/whole_beans/WB0293.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0890678976282235,
+      "normalized_correlation": 0.7137865171527368
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0258.png",
+      "b": "complete_cacao/whole_beans/WB0492.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06709167102899509,
+      "normalized_correlation": 0.8482692626267485
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0306.png",
+      "b": "complete_cacao/whole_beans/WB0478.png",
+      "hamming": 4,
+      "normalized_rmse": 0.07261436173488466,
+      "normalized_correlation": 0.8548602124690439
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0328.png",
+      "b": "complete_cacao/whole_beans/WB0341.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0655852348505742,
+      "normalized_correlation": 0.7703865675243453
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0367.png",
+      "b": "complete_cacao/whole_beans/WB0672.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05701583533951798,
+      "normalized_correlation": 0.820648775682032
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0375.png",
+      "b": "complete_cacao/whole_beans/WB0865.png",
+      "hamming": 4,
+      "normalized_rmse": 0.08784323784032595,
+      "normalized_correlation": 0.8172429073552976
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0397.png",
+      "b": "complete_cacao/whole_beans/WB0612.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06633349879060468,
+      "normalized_correlation": 0.7151623654119721
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0445.png",
+      "b": "complete_cacao/whole_beans/WB0613.png",
+      "hamming": 2,
+      "normalized_rmse": 0.04925336167879489,
+      "normalized_correlation": 0.8371998066737125
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0472.png",
+      "b": "complete_cacao/whole_beans/WB1006.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06769471848742624,
+      "normalized_correlation": 0.8706704096698593
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0613.png",
+      "b": "complete_cacao/whole_beans/WB0616.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06077524335063138,
+      "normalized_correlation": 0.8034573857747985
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0632.png",
+      "b": "complete_cacao/whole_beans/WB0963.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0863509965051387,
+      "normalized_correlation": 0.7220142646869236
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0672.png",
+      "b": "complete_cacao/whole_beans/WB0824.png",
+      "hamming": 4,
+      "normalized_rmse": 0.06780108728274979,
+      "normalized_correlation": 0.7277946648595828
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0672.png",
+      "b": "complete_cacao/whole_beans/WB0896.png",
+      "hamming": 4,
+      "normalized_rmse": 0.05622455219499525,
+      "normalized_correlation": 0.8028915418996067
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0779.png",
+      "b": "complete_cacao/whole_beans/WB0863.png",
+      "hamming": 4,
+      "normalized_rmse": 0.1161332051842072,
+      "normalized_correlation": 0.7763067230312716
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0864.png",
+      "b": "complete_cacao/whole_beans/WB0879.png",
+      "hamming": 4,
+      "normalized_rmse": 0.0,
+      "normalized_correlation": 1.0
+    },
+    {
+      "a": "complete_cacao/whole_beans/WB0865.png",
+      "b": "complete_cacao/whole_beans/WB1093.png",
+      "hamming": 2,
+      "normalized_rmse": 0.10301533568266984,
+      "normalized_correlation": 0.7230511764096004
+    }
+  ]
+}

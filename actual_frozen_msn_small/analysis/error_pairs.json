@@ -1,0 +1,27 @@
+[
+  {
+    "true": "skin_damaged_beans",
+    "predicted": "broken_beans",
+    "count": 55
+  },
+  {
+    "true": "broken_beans",
+    "predicted": "skin_damaged_beans",
+    "count": 31
+  },
+  {
+    "true": "whole_beans",
+    "predicted": "fermented_beans",
+    "count": 28
+  },
+  {
+    "true": "fermented_beans",
+    "predicted": "whole_beans",
+    "count": 24
+  },
+  {
+    "true": "unfermented_beans",
+    "predicted": "whole_beans",
+    "count": 15
+  }
+]

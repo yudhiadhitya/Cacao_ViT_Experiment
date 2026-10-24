@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "images_checked": 7,
+  "max_absolute_probability_difference": 1.7881393432617188e-07,
+  "method": "direct reconstructed ViT plus loaded trained head versus cached-feature prediction",
+  "checkpoint": "weighted_42",
+  "cacao_training_executed": true,
+  "classifier_parameters": 2695,
+  "backbone_parameters": 21665664,
+  "model_parameters": 21668359
+}

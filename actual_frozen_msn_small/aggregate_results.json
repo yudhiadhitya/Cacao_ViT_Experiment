@@ -1,0 +1,46 @@
+{
+  "weighted": {
+    "test_accuracy": {
+      "mean": 0.7123655913978495,
+      "sample_sd": 0.0013440860215053752
+    },
+    "test_macro_f1": {
+      "mean": 0.7015262055899724,
+      "sample_sd": 0.0017466954622905775
+    },
+    "test_balanced_accuracy": {
+      "mean": 0.7025521280016586,
+      "sample_sd": 0.002043414622841932
+    },
+    "test_macro_ovr_roc_auc": {
+      "mean": 0.9480393138119109,
+      "sample_sd": 0.0006608781463731051
+    },
+    "test_macro_average_precision": {
+      "mean": 0.7387827388164547,
+      "sample_sd": 0.002211214040799959
+    }
+  },
+  "unweighted": {
+    "test_accuracy": {
+      "mean": 0.7043010752688171,
+      "sample_sd": 0.0023280252789904246
+    },
+    "test_macro_f1": {
+      "mean": 0.6928171305269485,
+      "sample_sd": 0.0015866386904821532
+    },
+    "test_balanced_accuracy": {
+      "mean": 0.6933369386774637,
+      "sample_sd": 0.002675220550906941
+    },
+    "test_macro_ovr_roc_auc": {
+      "mean": 0.9484420424222589,
+      "sample_sd": 0.0009973358918986895
+    },
+    "test_macro_average_precision": {
+      "mean": 0.7388888639475683,
+      "sample_sd": 0.004175860539866119
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "total_images": 7428,
+  "class_counts": {
+    "bean_fractions": 426,
+    "broken_beans": 1046,
+    "fermented_beans": 916,
+    "moldy_beans": 1255,
+    "skin_damaged_beans": 822,
+    "unfermented_beans": 1776,
+    "whole_beans": 1187
+  },
+  "unique_pixel_hashes": 6666,
+  "exact_duplicate_groups": 762,
+  "exact_duplicate_images": 1524,
+  "cross_label_exact_conflict_groups": 0,
+  "same_phash_candidate_groups": 1,
+  "width_min": 12,
+  "width_max": 3360,
+  "height_min": 26,
+  "height_max": 2100,
+  "physical_identifiers_available": false,
+  "sampling_scope": "image level; physical bean and batch independence unverified"
+}

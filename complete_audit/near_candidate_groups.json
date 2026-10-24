@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "path": "complete_cacao/fermented_beans/FR350.png",
+      "class": "fermented_beans",
+      "width": 180,
+      "height": 252,
+      "pixel_sha256": "ac7c577ddb0335d9bca164dd7e9cf995f8c2efe01fbcd1abcab83d527e360547",
+      "phash": "2662496831917747060",
+      "mean_intensity": 32.78909465020576
+    },
+    {
+      "path": "complete_cacao/whole_beans/WB1093.png",
+      "class": "whole_beans",
+      "width": 220,
+      "height": 304,
+      "pixel_sha256": "a933c8ec8e72b8c8f1b9a58536f564a8dd20bb7f88469817a42bb685a0f5ccd3",
+      "phash": "2662496831917747060",
+      "mean_intensity": 21.561144338118023
+    }
+  ]
+]

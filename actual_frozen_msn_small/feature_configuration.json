@@ -1,0 +1,30 @@
+{
+  "model": "facebook/vit-msn-small",
+  "revision": "a50267de5e56f5b66a7fec6d2d8a8c60db24a704",
+  "manifest_sha256": "f0db3fa696c2cae4e464aa75d8d699489992173f8bea267119f8f8c6b6753088",
+  "samples": 7428,
+  "dimensions": 384,
+  "extraction_seconds": 369.7935907770002,
+  "backbone_frozen": true,
+  "augmentation": false,
+  "extraction_batch_size": 16,
+  "data_loading_workers": 0,
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "cpu": "AMD EPYC 9V74 80-Core Processor",
+    "gpu": null,
+    "cuda": null,
+    "packages": {
+      "torch": "2.8.0+cpu",
+      "torchvision": "0.23.0+cpu",
+      "transformers": "4.57.1",
+      "huggingface-hub": "0.35.3",
+      "numpy": "2.2.6",
+      "scipy": "1.16.2",
+      "scikit-learn": "1.7.2",
+      "Pillow": "11.3.0",
+      "matplotlib": "3.10.7"
+    }
+  }
+}
